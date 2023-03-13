@@ -1,0 +1,7 @@
+.field:focus-within .fieldLabel {
+    color: rgb(53, 53, 53); 
+}
+
+.fieldLabel{
+    color: gray;
+}
