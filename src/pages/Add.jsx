@@ -25,7 +25,7 @@ const Add = () => {
     }
 
     if (e.target.author.value === ""){
-      errors.title = "Author is Required!";
+      errors.author = "Author is Required!";
     }
 
     if (e.target.price.value === ""){
